@@ -1,3 +1,16 @@
+# Mine
+## modifications
+- ./deep_sort/deep_sort.py: add some function to process single photo
+- main.py: add some paths
+- tracker.py: adding post-processing the box produced by yolo and calculate the center coordinate 
+## new file or directory
+- calibration.py : calibrate to get the parameters of camera by grid
+- reproject.py : reproject the 2d coordinates to 3d 
+- test.py : generate csv
+- detect_single_img.py : processing the single img to get the distance from the grid paper
+- ./pic where the grid paper photos are
+- ./ppl where the ppl pics or videos are, by the way, the test csv produce the coodinate there
+
 # yolov5 deepsort 行人 车辆 跟踪 检测 计数
 
 - 实现了 出/入 分别计数。

@@ -1,0 +1,4 @@
+Directory Desciption
+\pic put the static pictures
+rename.py change files name in batch
+When I put the video or pics and generate the according accordinates of human
